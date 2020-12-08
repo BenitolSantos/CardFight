@@ -20,3 +20,5 @@ bundle install
  because nokogiri wouldn't install
 
  remember to look up event listeners
+
+ ajax is post request, getting and setting
