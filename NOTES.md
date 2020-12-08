@@ -18,3 +18,5 @@ gem install nokogiri
 bundle install
 
  because nokogiri wouldn't install
+
+ remember to look up event listeners
