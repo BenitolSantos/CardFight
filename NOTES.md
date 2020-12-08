@@ -22,3 +22,5 @@ bundle install
  remember to look up event listeners
 
  ajax is post request, getting and setting
+
+ sqlite is like an ex el spreadsheet, needs, rails db:create
